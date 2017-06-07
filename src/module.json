@@ -1,0 +1,14 @@
+{
+    "name": "ModuleAlpha",
+    "alias": "module_alpha",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "ModuleAlpha\\Alpha\\Providers\\AlphaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
